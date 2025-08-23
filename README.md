@@ -12,4 +12,4 @@ Because the problem states an explicit rule not to use sort(), I assumed that we
 \* n = number of frames or the heighest frames between frames.
 
 ** PROPLEMS SHOULD HAVE CONSTRAINTS please don't do that again.
-![Angry Leonardo Dicaprio GIF](https://github.com/user-attachments/assets/bf720f0e-ca05-47e3-8db3-a0598244d6b8)
+![angry](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmJzZWt6MGRzOWw2eTg2dW03aXQ4dDU5ang2bGViemg3ZTh0ZnVyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1J9u3TZfpmeDLkD6/giphy.gif)
