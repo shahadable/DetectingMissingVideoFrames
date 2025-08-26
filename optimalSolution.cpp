@@ -28,7 +28,7 @@ res find_missing_ranges(vector<ll> frames){
             if(gap_started){
                 gap_started = false;
                 gaps.push_back(make_pair(gap_started_at, i - 1));
-                current_gap = i - 1 - gap_started_at;
+                current_gap = i - gap_started_at;
                 if(current_gap > longest_gap_yet){
                     longest_gap_yet = current_gap;
                     longest_gap = make_pair(gap_started_at, i - 1);
